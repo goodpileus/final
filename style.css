@@ -1,0 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
+.marquee {
+  overflow: hidden;
+  border:1px solid #ccc;
+  font-size: 30px;
+}
